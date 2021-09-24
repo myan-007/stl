@@ -52,7 +52,7 @@ void c_p_c()
 int32_t main()
 {
 	c_p_c();
-	$0
+	
 
 	return 0;
 }
